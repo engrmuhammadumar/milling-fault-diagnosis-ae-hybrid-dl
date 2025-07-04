@@ -5,8 +5,8 @@ Supplementary material and code for the paper.
 
 This repository contains code, results, and supplementary material for the paper:
 
-**"Milling Machine Fault Diagnosis Using Acoustic Emission and Hybrid Deep Learning With Feature Optimization"**  
-Published in *MDPI Applied Sciences*, 202X.  
+**Milling Machine Fault Diagnosis Using Acoustic Emission and Hybrid Deep Learning With Feature Optimization**  
+Published in *MDPI Applied Sciences*
 [Link to the paper](https://www.mdpi.com/2076-3417/14/22/10404)  
 
 ## 📌 Abstract
